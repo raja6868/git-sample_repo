@@ -3,6 +3,7 @@ line 1
 line 2 
 lets check how it goes.
 
+
 This is sam
 hehehe
 This is new line.
@@ -10,3 +11,8 @@ ssss
 ghghk
 xxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+>>>>>>> 747860a7280f3b7230031c31908ed0c09430e019
+
+gggggfhamgagm
+ffg,gdgdjkds
+-----------------------------------------------------------------------------------
